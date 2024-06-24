@@ -7,6 +7,9 @@
     src: url('fontes/idroid.otf'); format:('opentype');
     font-weight: normal;
 }
+body{
+    background-color: rgb(208, 247, 234);
+}
 
 *{
     margin: 0px;
